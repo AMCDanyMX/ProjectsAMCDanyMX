@@ -1,0 +1,60 @@
+@font-face {
+  font-family: pixelart;
+  src: url(fonts/Pixellari.ttf);
+}
+body{
+	font-family: pixelart;
+}
+.banner{
+	background-color: black;
+}
+.nav-blue .nav-link{
+	color:white;
+	padding: 0;
+}
+.nav-blue .nav-link:hover{
+	color:#FF383D;
+}
+.nav-blue{
+	background-color: #1C0B7F;
+}
+.card-cat .card{
+	background-color: transparent!important;
+	text-decoration: none!important;
+	border: 0px;
+	color:black;
+}
+.card-cat .card:hover{
+	color:#FF383D;
+}
+.retro-info{
+	background-color: white;
+	border: 3px solid black;
+	padding: 30px;
+}
+.retro-info a{
+	color:black;
+	padding: 2px;
+	border:2px solid;
+}
+.retro-info a:hover{
+	background-color:#FF383D;
+}
+.jumbotron.principal{
+	margin-bottom: 0;
+}
+
+.footer{
+	background-color: black;
+}
+.footer-header{
+	color: white;
+	border-bottom: 3px solid;
+}
+.footer .nav-link{
+	color:white;
+	padding: 0;
+}
+.footer .nav-link:hover{
+	color:#FF383D;
+}
